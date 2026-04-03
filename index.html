@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Map Skills Practice</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🗺️ Map Skills Practice</h1>
+            <p class="subtitle">Test your knowledge of world geography</p>
+        </header>
+
+        <!-- Setup Screen -->
+        <div id="setup-screen" class="screen">
+            <div class="card">
+                <h2>Start a New Quiz</h2>
+                
+                <div class="form-group">
+                    <label for="region-select">Select Region:</label>
+                    <select id="region-select">
+                        <option value="">Loading regions...</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="mode-select">Quiz Mode:</label>
+                    <select id="mode-select">
+                        <option value="multiple_choice">Multiple Choice</option>
+                        <option value="typing">Type Your Answer</option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <label for="question-count">Number of Questions (leave empty for all):</label>
+                    <input type="number" id="question-count" min="1" placeholder="All questions">
+                </div>
+
+                <button id="start-quiz-btn" class="btn btn-primary" disabled>Start Quiz</button>
+            </div>
+
+            <div class="card">
+                <h2>Score History</h2>
+                <div id="score-history">
+                    <p class="empty-state">No quiz history yet</p>
+                </div>
+                <div class="button-group">
+                    <button id="export-scores-btn" class="btn btn-secondary">Export Scores</button>
+                    <button id="import-scores-btn" class="btn btn-secondary">Import Scores</button>
+                    <input type="file" id="import-file-input" accept=".json" style="display: none;">
+                </div>
+            </div>
+        </div>
+
+        <!-- Quiz Screen -->
+        <div id="quiz-screen" class="screen hidden">
+            <div class="quiz-header">
+                <div class="quiz-info">
+                    <span id="quiz-region" class="quiz-region"></span>
+                    <span id="quiz-progress" class="quiz-progress"></span>
+                </div>
+                <div class="quiz-timer">
+                    <span id="timer">00:00</span>
+                </div>
+            </div>
+
+            <div class="quiz-content">
+                <div class="map-container">
+                    <img id="map-image" src="" alt="Map" class="map-image">
+                    <div id="country-highlight" class="country-highlight hidden"></div>
+                </div>
+
+                <div class="question-container">
+                    <h3 id="question-text" class="question-text"></h3>
+                    
+                    <div id="multiple-choice-container" class="multiple-choice-container hidden">
+                        <div id="choices" class="choices"></div>
+                    </div>
+
+                    <div id="typing-container" class="typing-container hidden">
+                        <input type="text" id="typing-answer" class="typing-answer" placeholder="Type your answer..." autocomplete="off">
+                        <button id="submit-typing-btn" class="btn btn-primary">Submit</button>
+                    </div>
+
+                    <div id="feedback" class="feedback hidden"></div>
+                </div>
+            </div>
+
+            <div class="quiz-footer">
+                <button id="next-btn" class="btn btn-primary hidden">Next Question</button>
+                <button id="end-quiz-btn" class="btn btn-secondary">End Quiz</button>
+            </div>
+        </div>
+
+        <!-- Results Screen -->
+        <div id="results-screen" class="screen hidden">
+            <div class="card results-card">
+                <h2>Quiz Complete!</h2>
+                <div class="results-summary">
+                    <div class="result-item">
+                        <span class="result-label">Region:</span>
+                        <span id="result-region" class="result-value"></span>
+                    </div>
+                    <div class="result-item">
+                        <span class="result-label">Mode:</span>
+                        <span id="result-mode" class="result-value"></span>
+                    </div>
+                    <div class="result-item">
+                        <span class="result-label">Score:</span>
+                        <span id="result-score" class="result-value"></span>
+                    </div>
+                    <div class="result-item">
+                        <span class="result-label">Time:</span>
+                        <span id="result-time" class="result-value"></span>
+                    </div>
+                </div>
+
+                <div class="results-details">
+                    <h3>Question Breakdown</h3>
+                    <div id="results-breakdown" class="results-breakdown"></div>
+                </div>
+
+                <div class="button-group">
+                    <button id="try-again-btn" class="btn btn-primary">Try Again</button>
+                    <button id="back-home-btn" class="btn btn-secondary">Back to Home</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script type="module" src="js/app.js"></script>
+</body>
+</html>
