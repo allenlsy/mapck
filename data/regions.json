@@ -11,7 +11,7 @@
           "capital": "Algiers",
           "alternateNames": ["Algeria", "People's Democratic Republic of Algeria"],
           "alternateCapitals": ["Algiers"],
-          "pointed_country": "maps/whole_africa/Algeria.jpg"
+          "pointed_country": "maps/whole_africa/Algeria.jpeg"
         },
         {
           "id": "ao",
@@ -27,7 +27,7 @@
           "capital": "Porto-Novo",
           "alternateNames": ["Benin", "Republic of Benin"],
           "alternateCapitals": ["Porto-Novo", "Cotonou"],
-          "pointed_country": "maps/whole_africa/Benin.jpg"
+          "pointed_country": "maps/whole_africa/Benin.jpeg"
         },
         {
           "id": "bw",
@@ -43,7 +43,7 @@
           "capital": "Ouagadougou",
           "alternateNames": ["Burkina Faso"],
           "alternateCapitals": ["Ouagadougou"],
-          "pointed_country": "maps/whole_africa/Burkina Faso.jpg"
+          "pointed_country": "maps/whole_africa/Burkina Faso.jpeg"
         },
         {
           "id": "bi",
@@ -59,7 +59,7 @@
           "capital": "Praia",
           "alternateNames": ["Cabo Verde", "Cape Verde", "Republic of Cabo Verde"],
           "alternateCapitals": ["Praia"],
-          "pointed_country": "maps/whole_africa/Cabo Verde.jpg"
+          "pointed_country": "maps/whole_africa/Cabo Verde.jpeg"
         },
         {
           "id": "cm",
@@ -67,7 +67,7 @@
           "capital": "Yaounde",
           "alternateNames": ["Cameroon", "Republic of Cameroon"],
           "alternateCapitals": ["Yaounde"],
-          "pointed_country": "maps/whole_africa/Cameroon.jpg"
+          "pointed_country": "maps/whole_africa/Cameroon.jpeg"
         },
         {
           "id": "cf",
@@ -75,7 +75,7 @@
           "capital": "Bangui",
           "alternateNames": ["Central African Republic", "CAR"],
           "alternateCapitals": ["Bangui"],
-          "pointed_country": "maps/whole_africa/Central African Republic.jpg"
+          "pointed_country": "maps/whole_africa/Central African Republic.jpeg"
         },
         {
           "id": "td",
@@ -83,7 +83,7 @@
           "capital": "N'Djamena",
           "alternateNames": ["Chad", "Republic of Chad"],
           "alternateCapitals": ["N'Djamena"],
-          "pointed_country": "maps/whole_africa/Chad.jpg"
+          "pointed_country": "maps/whole_africa/Chad.jpeg"
         },
         {
           "id": "km",
@@ -99,7 +99,7 @@
           "capital": "Brazzaville",
           "alternateNames": ["Republic of the Congo", "Congo", "Congo-Brazzaville"],
           "alternateCapitals": ["Brazzaville"],
-          "pointed_country": "maps/whole_africa/Republic of the Congo.jpg"
+          "pointed_country": "maps/whole_africa/Republic of the Congo.jpeg"
         },
         {
           "id": "ci",
@@ -107,7 +107,7 @@
           "capital": "Yamoussoukro",
           "alternateNames": ["Ivory Coast", "Cote d'Ivoire"],
           "alternateCapitals": ["Yamoussoukro", "Abidjan"],
-          "pointed_country": "maps/whole_africa/Ivory Coast.jpg"
+          "pointed_country": "maps/whole_africa/Ivory Coast.jpeg"
         },
         {
           "id": "dj",
@@ -115,7 +115,7 @@
           "capital": "Djibouti",
           "alternateNames": ["Djibouti", "Republic of Djibouti"],
           "alternateCapitals": ["Djibouti"],
-          "pointed_country": "maps/whole_africa/Djibouti.jpg"
+          "pointed_country": "maps/whole_africa/Djibouti.jpeg"
         },
         {
           "id": "eg",
@@ -123,7 +123,7 @@
           "capital": "Cairo",
           "alternateNames": ["Egypt", "Arab Republic of Egypt"],
           "alternateCapitals": ["Cairo"],
-          "pointed_country": "maps/whole_africa/Egypt.jpg"
+          "pointed_country": "maps/whole_africa/Egypt.jpeg"
         },
         {
           "id": "gq",
@@ -131,7 +131,7 @@
           "capital": "Malabo",
           "alternateNames": ["Equatorial Guinea", "Republic of Equatorial Guinea"],
           "alternateCapitals": ["Malabo"],
-          "pointed_country": "maps/whole_africa/Equatorial Guinea.jpg"
+          "pointed_country": "maps/whole_africa/Equatorial Guinea.jpeg"
         },
         {
           "id": "er",
@@ -139,7 +139,7 @@
           "capital": "Asmara",
           "alternateNames": ["Eritrea", "State of Eritrea"],
           "alternateCapitals": ["Asmara"],
-          "pointed_country": "maps/whole_africa/Eritrea.jpg"
+          "pointed_country": "maps/whole_africa/Eritrea.jpeg"
         },
         {
           "id": "sz",
@@ -155,7 +155,7 @@
           "capital": "Addis Ababa",
           "alternateNames": ["Ethiopia", "Federal Democratic Republic of Ethiopia"],
           "alternateCapitals": ["Addis Ababa"],
-          "pointed_country": "maps/whole_africa/Ethiopia.jpg"
+          "pointed_country": "maps/whole_africa/Ethiopia.jpeg"
         },
         {
           "id": "ga",
@@ -163,7 +163,7 @@
           "capital": "Libreville",
           "alternateNames": ["Gabon", "Gabonese Republic"],
           "alternateCapitals": ["Libreville"],
-          "pointed_country": "maps/whole_africa/Gabon.jpg"
+          "pointed_country": "maps/whole_africa/Gabon.jpeg"
         },
         {
           "id": "gm",
@@ -171,7 +171,7 @@
           "capital": "Banjul",
           "alternateNames": ["Gambia", "Republic of The Gambia"],
           "alternateCapitals": ["Banjul"],
-          "pointed_country": "maps/whole_africa/Gambia.jpg"
+          "pointed_country": "maps/whole_africa/Gambia.jpeg"
         },
         {
           "id": "gh",
@@ -179,7 +179,7 @@
           "capital": "Accra",
           "alternateNames": ["Ghana", "Republic of Ghana"],
           "alternateCapitals": ["Accra"],
-          "pointed_country": "maps/whole_africa/Ghana.jpg"
+          "pointed_country": "maps/whole_africa/Ghana.jpeg"
         },
         {
           "id": "gn",
@@ -187,7 +187,7 @@
           "capital": "Conakry",
           "alternateNames": ["Guinea", "Republic of Guinea"],
           "alternateCapitals": ["Conakry"],
-          "pointed_country": "maps/whole_africa/Guinea.jpg"
+          "pointed_country": "maps/whole_africa/Guinea.jpeg"
         },
         {
           "id": "gw",
@@ -195,7 +195,7 @@
           "capital": "Bissau",
           "alternateNames": ["Guinea-Bissau", "Republic of Guinea-Bissau"],
           "alternateCapitals": ["Bissau"],
-          "pointed_country": "maps/whole_africa/Guinea-Bissau.jpg"
+          "pointed_country": "maps/whole_africa/Guinea-Bissau.jpeg"
         },
         {
           "id": "ke",
@@ -203,7 +203,7 @@
           "capital": "Nairobi",
           "alternateNames": ["Kenya", "Republic of Kenya"],
           "alternateCapitals": ["Nairobi"],
-          "pointed_country": "maps/whole_africa/Kenya.jpg"
+          "pointed_country": "maps/whole_africa/Kenya.jpeg"
         },
         {
           "id": "ls",
@@ -219,7 +219,7 @@
           "capital": "Monrovia",
           "alternateNames": ["Liberia", "Republic of Liberia"],
           "alternateCapitals": ["Monrovia"],
-          "pointed_country": "maps/whole_africa/Liberia.jpg"
+          "pointed_country": "maps/whole_africa/Liberia.jpeg"
         },
         {
           "id": "ly",
@@ -227,7 +227,7 @@
           "capital": "Tripoli",
           "alternateNames": ["Libya", "State of Libya"],
           "alternateCapitals": ["Tripoli"],
-          "pointed_country": "maps/whole_africa/Libya.jpg"
+          "pointed_country": "maps/whole_africa/Libya.jpeg"
         },
         {
           "id": "mg",
@@ -251,7 +251,7 @@
           "capital": "Bamako",
           "alternateNames": ["Mali", "Republic of Mali"],
           "alternateCapitals": ["Bamako"],
-          "pointed_country": "maps/whole_africa/Mali.jpg"
+          "pointed_country": "maps/whole_africa/Mali.jpeg"
         },
         {
           "id": "mr",
@@ -259,7 +259,7 @@
           "capital": "Nouakchott",
           "alternateNames": ["Mauritania", "Islamic Republic of Mauritania"],
           "alternateCapitals": ["Nouakchott"],
-          "pointed_country": "maps/whole_africa/Mauritania.jpg"
+          "pointed_country": "maps/whole_africa/Mauritania.jpeg"
         },
         {
           "id": "mu",
@@ -275,7 +275,7 @@
           "capital": "Rabat",
           "alternateNames": ["Morocco", "Kingdom of Morocco"],
           "alternateCapitals": ["Rabat"],
-          "pointed_country": "maps/whole_africa/Morocco.jpg"
+          "pointed_country": "maps/whole_africa/Morocco.jpeg"
         },
         {
           "id": "mz",
@@ -299,7 +299,7 @@
           "capital": "Niamey",
           "alternateNames": ["Niger", "Republic of Niger"],
           "alternateCapitals": ["Niamey"],
-          "pointed_country": "maps/whole_africa/Niger.jpg"
+          "pointed_country": "maps/whole_africa/Niger.jpeg"
         },
         {
           "id": "ng",
@@ -307,7 +307,7 @@
           "capital": "Abuja",
           "alternateNames": ["Nigeria", "Federal Republic of Nigeria"],
           "alternateCapitals": ["Abuja"],
-          "pointed_country": "maps/whole_africa/Nigeria.jpg"
+          "pointed_country": "maps/whole_africa/Nigeria.jpeg"
         },
         {
           "id": "rw",
@@ -323,7 +323,7 @@
           "capital": "Sao Tome",
           "alternateNames": ["Sao Tome and Principe", "Democratic Republic of Sao Tome and Principe"],
           "alternateCapitals": ["Sao Tome"],
-          "pointed_country": "maps/whole_africa/Sao Tome and Principe.jpg"
+          "pointed_country": "maps/whole_africa/Sao Tome and Principe.jpeg"
         },
         {
           "id": "sn",
@@ -331,7 +331,7 @@
           "capital": "Dakar",
           "alternateNames": ["Senegal", "Republic of Senegal"],
           "alternateCapitals": ["Dakar"],
-          "pointed_country": "maps/whole_africa/Senegal.jpg"
+          "pointed_country": "maps/whole_africa/Senegal.jpeg"
         },
         {
           "id": "sc",
@@ -347,7 +347,7 @@
           "capital": "Freetown",
           "alternateNames": ["Sierra Leone", "Republic of Sierra Leone"],
           "alternateCapitals": ["Freetown"],
-          "pointed_country": "maps/whole_africa/Sierra Leone.jpg"
+          "pointed_country": "maps/whole_africa/Sierra Leone.jpeg"
         },
         {
           "id": "so",
@@ -355,7 +355,7 @@
           "capital": "Mogadishu",
           "alternateNames": ["Somalia", "Federal Republic of Somalia"],
           "alternateCapitals": ["Mogadishu"],
-          "pointed_country": "maps/whole_africa/Somalia.jpg"
+          "pointed_country": "maps/whole_africa/Somalia.jpeg"
         },
         {
           "id": "za",
@@ -371,7 +371,7 @@
           "capital": "Juba",
           "alternateNames": ["South Sudan", "Republic of South Sudan"],
           "alternateCapitals": ["Juba"],
-          "pointed_country": "maps/whole_africa/South Sudan.jpg"
+          "pointed_country": "maps/whole_africa/South Sudan.jpeg"
         },
         {
           "id": "sd",
@@ -379,7 +379,7 @@
           "capital": "Khartoum",
           "alternateNames": ["Sudan", "Republic of Sudan"],
           "alternateCapitals": ["Khartoum"],
-          "pointed_country": "maps/whole_africa/Sudan.jpg"
+          "pointed_country": "maps/whole_africa/Sudan.jpeg"
         },
         {
           "id": "tz",
@@ -395,7 +395,7 @@
           "capital": "Lome",
           "alternateNames": ["Togo", "Togolese Republic"],
           "alternateCapitals": ["Lome"],
-          "pointed_country": "maps/whole_africa/Togo.jpg"
+          "pointed_country": "maps/whole_africa/Togo.jpeg"
         },
         {
           "id": "tn",
@@ -403,7 +403,7 @@
           "capital": "Tunis",
           "alternateNames": ["Tunisia", "Tunisian Republic"],
           "alternateCapitals": ["Tunis"],
-          "pointed_country": "maps/whole_africa/Tunisia.jpg"
+          "pointed_country": "maps/whole_africa/Tunisia.jpeg"
         },
         {
           "id": "ug",
@@ -411,7 +411,7 @@
           "capital": "Kampala",
           "alternateNames": ["Uganda", "Republic of Uganda"],
           "alternateCapitals": ["Kampala"],
-          "pointed_country": "maps/whole_africa/Uganda.jpg"
+          "pointed_country": "maps/whole_africa/Uganda.jpeg"
         },
         {
           "id": "zm",
