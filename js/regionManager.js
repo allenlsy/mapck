@@ -14,7 +14,7 @@ class RegionManager {
      */
     async loadRegions() {
         try {
-            const response = await fetch('../data/regions.json');
+            const response = await fetch('data/regions.json');
             const data = await response.json();
             this.regions = data.regions;
             return this.regions;
@@ -72,7 +72,7 @@ class RegionManager {
      * Get map image URL for current region
      */
     getMapImageUrl() {
-        return this.currentRegion ? `../${this.currentRegion.mapImage}` : null;
+        return this.currentRegion ? this.currentRegion.mapImage : null;
     }
 }
 
