@@ -22,6 +22,14 @@
           "pointed_country": "maps/southern_africa/Angola.jpg"
         },
         {
+          "id": "xa",
+          "name": "Cabinda",
+          "capital": "Cabinda City",
+          "alternateNames": ["Cabinda"],
+          "alternateCapitals": ["Cabinda City"],
+          "pointed_country": "maps/whole_africa/Cabinda.jpeg"
+        },
+        {
           "id": "bj",
           "name": "Benin",
           "capital": "Porto-Novo",
@@ -92,6 +100,14 @@
           "alternateNames": ["Comoros", "Union of the Comoros"],
           "alternateCapitals": ["Moroni"],
           "pointed_country": "maps/southern_africa/Comoros.jpeg"
+        },
+        {
+          "id": "cd",
+          "name": "Democratic Republic of the Congo",
+          "capital": "Kinshasa",
+          "alternateNames": ["Democratic Republic of the Congo", "DRC", "DR Congo", "Congo-Kinshasa"],
+          "alternateCapitals": ["Kinshasa"],
+          "pointed_country": "maps/southern_africa/DRC.jpeg"
         },
         {
           "id": "cg",
