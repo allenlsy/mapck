@@ -1,5 +1,436 @@
 {
   "regions": {
+    "whole_africa": {
+      "id": "whole_africa",
+      "name": "Whole Africa",
+      "mapImage": "maps/whole_africa.jpg",
+      "countries": [
+        {
+          "id": "dz",
+          "name": "Algeria",
+          "capital": "Algiers",
+          "alternateNames": ["Algeria", "People's Democratic Republic of Algeria"],
+          "alternateCapitals": ["Algiers"],
+          "pointed_country": "maps/whole_africa/Algeria.jpg"
+        },
+        {
+          "id": "ao",
+          "name": "Angola",
+          "capital": "Luanda",
+          "alternateNames": ["Angola", "Republic of Angola"],
+          "alternateCapitals": ["Luanda"],
+          "pointed_country": "maps/southern_africa/Angola.jpg"
+        },
+        {
+          "id": "bj",
+          "name": "Benin",
+          "capital": "Porto-Novo",
+          "alternateNames": ["Benin", "Republic of Benin"],
+          "alternateCapitals": ["Porto-Novo", "Cotonou"],
+          "pointed_country": "maps/whole_africa/Benin.jpg"
+        },
+        {
+          "id": "bw",
+          "name": "Botswana",
+          "capital": "Gaborone",
+          "alternateNames": ["Botswana", "Republic of Botswana"],
+          "alternateCapitals": ["Gaborone"],
+          "pointed_country": "maps/southern_africa/Botswana.jpg"
+        },
+        {
+          "id": "bf",
+          "name": "Burkina Faso",
+          "capital": "Ouagadougou",
+          "alternateNames": ["Burkina Faso"],
+          "alternateCapitals": ["Ouagadougou"],
+          "pointed_country": "maps/whole_africa/Burkina Faso.jpg"
+        },
+        {
+          "id": "bi",
+          "name": "Burundi",
+          "capital": "Gitega",
+          "alternateNames": ["Burundi", "Republic of Burundi"],
+          "alternateCapitals": ["Gitega", "Bujumbura"],
+          "pointed_country": "maps/southern_africa/Burundi.jpeg"
+        },
+        {
+          "id": "cv",
+          "name": "Cabo Verde",
+          "capital": "Praia",
+          "alternateNames": ["Cabo Verde", "Cape Verde", "Republic of Cabo Verde"],
+          "alternateCapitals": ["Praia"],
+          "pointed_country": "maps/whole_africa/Cabo Verde.jpg"
+        },
+        {
+          "id": "cm",
+          "name": "Cameroon",
+          "capital": "Yaounde",
+          "alternateNames": ["Cameroon", "Republic of Cameroon"],
+          "alternateCapitals": ["Yaounde"],
+          "pointed_country": "maps/whole_africa/Cameroon.jpg"
+        },
+        {
+          "id": "cf",
+          "name": "Central African Republic",
+          "capital": "Bangui",
+          "alternateNames": ["Central African Republic", "CAR"],
+          "alternateCapitals": ["Bangui"],
+          "pointed_country": "maps/whole_africa/Central African Republic.jpg"
+        },
+        {
+          "id": "td",
+          "name": "Chad",
+          "capital": "N'Djamena",
+          "alternateNames": ["Chad", "Republic of Chad"],
+          "alternateCapitals": ["N'Djamena"],
+          "pointed_country": "maps/whole_africa/Chad.jpg"
+        },
+        {
+          "id": "km",
+          "name": "Comoros",
+          "capital": "Moroni",
+          "alternateNames": ["Comoros", "Union of the Comoros"],
+          "alternateCapitals": ["Moroni"],
+          "pointed_country": "maps/southern_africa/Comoros.jpeg"
+        },
+        {
+          "id": "cg",
+          "name": "Republic of the Congo",
+          "capital": "Brazzaville",
+          "alternateNames": ["Republic of the Congo", "Congo", "Congo-Brazzaville"],
+          "alternateCapitals": ["Brazzaville"],
+          "pointed_country": "maps/whole_africa/Republic of the Congo.jpg"
+        },
+        {
+          "id": "ci",
+          "name": "Ivory Coast",
+          "capital": "Yamoussoukro",
+          "alternateNames": ["Ivory Coast", "Cote d'Ivoire"],
+          "alternateCapitals": ["Yamoussoukro", "Abidjan"],
+          "pointed_country": "maps/whole_africa/Ivory Coast.jpg"
+        },
+        {
+          "id": "dj",
+          "name": "Djibouti",
+          "capital": "Djibouti",
+          "alternateNames": ["Djibouti", "Republic of Djibouti"],
+          "alternateCapitals": ["Djibouti"],
+          "pointed_country": "maps/whole_africa/Djibouti.jpg"
+        },
+        {
+          "id": "eg",
+          "name": "Egypt",
+          "capital": "Cairo",
+          "alternateNames": ["Egypt", "Arab Republic of Egypt"],
+          "alternateCapitals": ["Cairo"],
+          "pointed_country": "maps/whole_africa/Egypt.jpg"
+        },
+        {
+          "id": "gq",
+          "name": "Equatorial Guinea",
+          "capital": "Malabo",
+          "alternateNames": ["Equatorial Guinea", "Republic of Equatorial Guinea"],
+          "alternateCapitals": ["Malabo"],
+          "pointed_country": "maps/whole_africa/Equatorial Guinea.jpg"
+        },
+        {
+          "id": "er",
+          "name": "Eritrea",
+          "capital": "Asmara",
+          "alternateNames": ["Eritrea", "State of Eritrea"],
+          "alternateCapitals": ["Asmara"],
+          "pointed_country": "maps/whole_africa/Eritrea.jpg"
+        },
+        {
+          "id": "sz",
+          "name": "Eswatini",
+          "capital": "Mbabane",
+          "alternateNames": ["Eswatini", "Swaziland", "Kingdom of Eswatini", "Kingdom of Swaziland"],
+          "alternateCapitals": ["Mbabane", "Lobamba"],
+          "pointed_country": "maps/southern_africa/Eswatini.jpeg"
+        },
+        {
+          "id": "et",
+          "name": "Ethiopia",
+          "capital": "Addis Ababa",
+          "alternateNames": ["Ethiopia", "Federal Democratic Republic of Ethiopia"],
+          "alternateCapitals": ["Addis Ababa"],
+          "pointed_country": "maps/whole_africa/Ethiopia.jpg"
+        },
+        {
+          "id": "ga",
+          "name": "Gabon",
+          "capital": "Libreville",
+          "alternateNames": ["Gabon", "Gabonese Republic"],
+          "alternateCapitals": ["Libreville"],
+          "pointed_country": "maps/whole_africa/Gabon.jpg"
+        },
+        {
+          "id": "gm",
+          "name": "Gambia",
+          "capital": "Banjul",
+          "alternateNames": ["Gambia", "Republic of The Gambia"],
+          "alternateCapitals": ["Banjul"],
+          "pointed_country": "maps/whole_africa/Gambia.jpg"
+        },
+        {
+          "id": "gh",
+          "name": "Ghana",
+          "capital": "Accra",
+          "alternateNames": ["Ghana", "Republic of Ghana"],
+          "alternateCapitals": ["Accra"],
+          "pointed_country": "maps/whole_africa/Ghana.jpg"
+        },
+        {
+          "id": "gn",
+          "name": "Guinea",
+          "capital": "Conakry",
+          "alternateNames": ["Guinea", "Republic of Guinea"],
+          "alternateCapitals": ["Conakry"],
+          "pointed_country": "maps/whole_africa/Guinea.jpg"
+        },
+        {
+          "id": "gw",
+          "name": "Guinea-Bissau",
+          "capital": "Bissau",
+          "alternateNames": ["Guinea-Bissau", "Republic of Guinea-Bissau"],
+          "alternateCapitals": ["Bissau"],
+          "pointed_country": "maps/whole_africa/Guinea-Bissau.jpg"
+        },
+        {
+          "id": "ke",
+          "name": "Kenya",
+          "capital": "Nairobi",
+          "alternateNames": ["Kenya", "Republic of Kenya"],
+          "alternateCapitals": ["Nairobi"],
+          "pointed_country": "maps/whole_africa/Kenya.jpg"
+        },
+        {
+          "id": "ls",
+          "name": "Lesotho",
+          "capital": "Maseru",
+          "alternateNames": ["Lesotho", "Kingdom of Lesotho"],
+          "alternateCapitals": ["Maseru"],
+          "pointed_country": "maps/southern_africa/Lesotho.jpeg"
+        },
+        {
+          "id": "lr",
+          "name": "Liberia",
+          "capital": "Monrovia",
+          "alternateNames": ["Liberia", "Republic of Liberia"],
+          "alternateCapitals": ["Monrovia"],
+          "pointed_country": "maps/whole_africa/Liberia.jpg"
+        },
+        {
+          "id": "ly",
+          "name": "Libya",
+          "capital": "Tripoli",
+          "alternateNames": ["Libya", "State of Libya"],
+          "alternateCapitals": ["Tripoli"],
+          "pointed_country": "maps/whole_africa/Libya.jpg"
+        },
+        {
+          "id": "mg",
+          "name": "Madagascar",
+          "capital": "Antananarivo",
+          "alternateNames": ["Madagascar", "Republic of Madagascar"],
+          "alternateCapitals": ["Antananarivo"],
+          "pointed_country": "maps/southern_africa/Madagascar.jpeg"
+        },
+        {
+          "id": "mw",
+          "name": "Malawi",
+          "capital": "Lilongwe",
+          "alternateNames": ["Malawi", "Republic of Malawi"],
+          "alternateCapitals": ["Lilongwe"],
+          "pointed_country": "maps/southern_africa/Malawi.jpeg"
+        },
+        {
+          "id": "ml",
+          "name": "Mali",
+          "capital": "Bamako",
+          "alternateNames": ["Mali", "Republic of Mali"],
+          "alternateCapitals": ["Bamako"],
+          "pointed_country": "maps/whole_africa/Mali.jpg"
+        },
+        {
+          "id": "mr",
+          "name": "Mauritania",
+          "capital": "Nouakchott",
+          "alternateNames": ["Mauritania", "Islamic Republic of Mauritania"],
+          "alternateCapitals": ["Nouakchott"],
+          "pointed_country": "maps/whole_africa/Mauritania.jpg"
+        },
+        {
+          "id": "mu",
+          "name": "Mauritius",
+          "capital": "Port Louis",
+          "alternateNames": ["Mauritius", "Republic of Mauritius"],
+          "alternateCapitals": ["Port Louis"],
+          "pointed_country": "maps/southern_africa/Mauritius.jpg"
+        },
+        {
+          "id": "ma",
+          "name": "Morocco",
+          "capital": "Rabat",
+          "alternateNames": ["Morocco", "Kingdom of Morocco"],
+          "alternateCapitals": ["Rabat"],
+          "pointed_country": "maps/whole_africa/Morocco.jpg"
+        },
+        {
+          "id": "mz",
+          "name": "Mozambique",
+          "capital": "Maputo",
+          "alternateNames": ["Mozambique", "Republic of Mozambique"],
+          "alternateCapitals": ["Maputo"],
+          "pointed_country": "maps/southern_africa/Mozambique.jpeg"
+        },
+        {
+          "id": "na",
+          "name": "Namibia",
+          "capital": "Windhoek",
+          "alternateNames": ["Namibia", "Republic of Namibia"],
+          "alternateCapitals": ["Windhoek"],
+          "pointed_country": "maps/southern_africa/Namibia.jpeg"
+        },
+        {
+          "id": "ne",
+          "name": "Niger",
+          "capital": "Niamey",
+          "alternateNames": ["Niger", "Republic of Niger"],
+          "alternateCapitals": ["Niamey"],
+          "pointed_country": "maps/whole_africa/Niger.jpg"
+        },
+        {
+          "id": "ng",
+          "name": "Nigeria",
+          "capital": "Abuja",
+          "alternateNames": ["Nigeria", "Federal Republic of Nigeria"],
+          "alternateCapitals": ["Abuja"],
+          "pointed_country": "maps/whole_africa/Nigeria.jpg"
+        },
+        {
+          "id": "rw",
+          "name": "Rwanda",
+          "capital": "Kigali",
+          "alternateNames": ["Rwanda", "Republic of Rwanda"],
+          "alternateCapitals": ["Kigali"],
+          "pointed_country": "maps/southern_africa/Rwanda.jpeg"
+        },
+        {
+          "id": "st",
+          "name": "Sao Tome and Principe",
+          "capital": "Sao Tome",
+          "alternateNames": ["Sao Tome and Principe", "Democratic Republic of Sao Tome and Principe"],
+          "alternateCapitals": ["Sao Tome"],
+          "pointed_country": "maps/whole_africa/Sao Tome and Principe.jpg"
+        },
+        {
+          "id": "sn",
+          "name": "Senegal",
+          "capital": "Dakar",
+          "alternateNames": ["Senegal", "Republic of Senegal"],
+          "alternateCapitals": ["Dakar"],
+          "pointed_country": "maps/whole_africa/Senegal.jpg"
+        },
+        {
+          "id": "sc",
+          "name": "Seychelles",
+          "capital": "Victoria",
+          "alternateNames": ["Seychelles", "Republic of Seychelles"],
+          "alternateCapitals": ["Victoria"],
+          "pointed_country": "maps/southern_africa/Seychelles.jpeg"
+        },
+        {
+          "id": "sl",
+          "name": "Sierra Leone",
+          "capital": "Freetown",
+          "alternateNames": ["Sierra Leone", "Republic of Sierra Leone"],
+          "alternateCapitals": ["Freetown"],
+          "pointed_country": "maps/whole_africa/Sierra Leone.jpg"
+        },
+        {
+          "id": "so",
+          "name": "Somalia",
+          "capital": "Mogadishu",
+          "alternateNames": ["Somalia", "Federal Republic of Somalia"],
+          "alternateCapitals": ["Mogadishu"],
+          "pointed_country": "maps/whole_africa/Somalia.jpg"
+        },
+        {
+          "id": "za",
+          "name": "South Africa",
+          "capital": "Pretoria",
+          "alternateNames": ["South Africa", "Republic of South Africa"],
+          "alternateCapitals": ["Pretoria", "Cape Town", "Bloemfontein"],
+          "pointed_country": "maps/southern_africa/South Africa.jpeg"
+        },
+        {
+          "id": "ss",
+          "name": "South Sudan",
+          "capital": "Juba",
+          "alternateNames": ["South Sudan", "Republic of South Sudan"],
+          "alternateCapitals": ["Juba"],
+          "pointed_country": "maps/whole_africa/South Sudan.jpg"
+        },
+        {
+          "id": "sd",
+          "name": "Sudan",
+          "capital": "Khartoum",
+          "alternateNames": ["Sudan", "Republic of Sudan"],
+          "alternateCapitals": ["Khartoum"],
+          "pointed_country": "maps/whole_africa/Sudan.jpg"
+        },
+        {
+          "id": "tz",
+          "name": "Tanzania",
+          "capital": "Dodoma",
+          "alternateNames": ["Tanzania", "United Republic of Tanzania"],
+          "alternateCapitals": ["Dodoma", "Dar es Salaam"],
+          "pointed_country": "maps/southern_africa/Tanzania.jpeg"
+        },
+        {
+          "id": "tg",
+          "name": "Togo",
+          "capital": "Lome",
+          "alternateNames": ["Togo", "Togolese Republic"],
+          "alternateCapitals": ["Lome"],
+          "pointed_country": "maps/whole_africa/Togo.jpg"
+        },
+        {
+          "id": "tn",
+          "name": "Tunisia",
+          "capital": "Tunis",
+          "alternateNames": ["Tunisia", "Tunisian Republic"],
+          "alternateCapitals": ["Tunis"],
+          "pointed_country": "maps/whole_africa/Tunisia.jpg"
+        },
+        {
+          "id": "ug",
+          "name": "Uganda",
+          "capital": "Kampala",
+          "alternateNames": ["Uganda", "Republic of Uganda"],
+          "alternateCapitals": ["Kampala"],
+          "pointed_country": "maps/whole_africa/Uganda.jpg"
+        },
+        {
+          "id": "zm",
+          "name": "Zambia",
+          "capital": "Lusaka",
+          "alternateNames": ["Zambia", "Republic of Zambia"],
+          "alternateCapitals": ["Lusaka"],
+          "pointed_country": "maps/southern_africa/Zambia.jpeg"
+        },
+        {
+          "id": "zw",
+          "name": "Zimbabwe",
+          "capital": "Harare",
+          "alternateNames": ["Zimbabwe", "Republic of Zimbabwe"],
+          "alternateCapitals": ["Harare"],
+          "pointed_country": "maps/southern_africa/Zimbabwe.jpeg"
+        }
+      ]
+    },
     "southern_africa": {
       "id": "southern_africa",
       "name": "Southern Africa",
