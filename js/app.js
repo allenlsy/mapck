@@ -93,6 +93,7 @@ class App {
             document.getElementById('import-file-input').click();
         });
         document.getElementById('import-file-input').addEventListener('change', (e) => this.importScores(e));
+        document.getElementById('clear-scores-btn').addEventListener('click', () => this.clearScores());
 
         // Quiz screen events
         document.getElementById('end-quiz-btn').addEventListener('click', () => this.endQuiz());

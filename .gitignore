@@ -1,0 +1,9 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Chinese text files (not part of the application)
+*.txt
+*.vtt
