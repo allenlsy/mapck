@@ -228,15 +228,12 @@ class QuizEngine {
         // Exact match
         if (str1 === str2) return true;
 
-        // Check if str1 contains str2 or vice versa
-        if (str1.includes(str2) || str2.includes(str1)) return true;
-
         // Levenshtein distance for fuzzy matching
         const distance = this.levenshteinDistance(str1, str2);
         const maxLength = Math.max(str1.length, str2.length);
         
         // Allow up to 30% difference
-        return distance / maxLength <= 0.3;
+        return distance / maxLength <= 0.05;
     }
 
     /**
