@@ -2,7 +2,7 @@
   "id": "whole_africa",
   "name": "Whole Africa",
   "entityLabel": "country",
-  "mapImage": "maps/whole_africa/numbered_main.png",
+  "mapImage": "maps/whole_africa.jpg",
   "questionTypes": [
     "numbered_region",
     "capital",
